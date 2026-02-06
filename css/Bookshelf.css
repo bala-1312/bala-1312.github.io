@@ -1,6 +1,6 @@
 
 body {
-  background-color: rgb(27, 27, 27); 
+  background-color: rgb(19, 18, 18); 
   color: #f9f6f4;
   font-family: 'EB Garamond', serif;
   font-size: 20px; 
@@ -23,11 +23,10 @@ main {
   text-align: center;
 }
 .year-section {
-  background: #000000ff;
+  background:  rgb(19, 18, 18);
   padding: 1rem;
   margin: 1rem 0;
-  border-radius: 8px;
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.7);
+  
 }
 
 .year-section h2 {
@@ -62,7 +61,7 @@ ul li span {
 }
 
 footer {
-  background: #000000ff;
+  background:  rgb(19, 18, 18);
   padding: 1.5rem;
   text-align: center;
 }
@@ -187,7 +186,7 @@ footer a:hover {
 }
 details {
   margin: 1rem 0;
-  background: #111;
+  background: #222121;
   padding: 1rem;
   border-radius: 5px;
 }
